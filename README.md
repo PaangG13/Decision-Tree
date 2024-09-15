@@ -1,1 +1,1 @@
-# Decision-Tree
+# Decision Trce Classifier: SkySurvey
